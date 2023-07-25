@@ -1,0 +1,4 @@
+put `sample.npy` file here
+download link:
+https://bhpan.buaa.edu.cn:443/link/2FA492E68B41343FB2AA4298E9FE4B34
+有效期限：2023-07-25 23:59
